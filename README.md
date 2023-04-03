@@ -1,2 +1,0 @@
-# UDistrital
-class full stack
